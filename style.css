@@ -4,7 +4,7 @@
     background: #E1BBC9;
     height: 100vh;
     text-align: center;
-    padding-top: 0.3em;
+    padding-top: 2em;
 }
 
 ul {
@@ -65,5 +65,4 @@ ul {
 
 #profilepic {
     border-radius: 50%;
-    padding-top: 2em;
 }
