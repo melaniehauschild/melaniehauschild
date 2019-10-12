@@ -4,6 +4,7 @@
     background: #E1BBC9;
     height: 100vh;
     text-align: center;
+    padding-top: 0.01em
 }
 
 ul {
@@ -16,21 +17,21 @@ ul {
 }
 
 #sideNav h1 {
-    font-size: 2em;
+    font-size: 1.8em;
     color: #564946;
     font-family: 'Yeseva One', cursive;
 }
 
 #sideNav h2 {
     color: #846A6A;
-    font-size: 1.7em;
+    font-size: 1.4em;
     padding-top: 0.5em;
     font-family: 'Varela Round', sans-serif;
 }
 
 #sideNav h3 {
     color: #846A6A;
-    font-size: 1.7em;
+    font-size: 1.4em;
     padding-bottom: 0.5em;
     font-family: 'Varela Round', sans-serif;
 }
