@@ -4,7 +4,7 @@
     background: #E1BBC9;
     height: 100vh;
     text-align: center;
-    padding-top: 0.2em
+    padding-top: 0.2em;
 }
 
 ul {
@@ -25,14 +25,14 @@ ul {
 #sideNav h2 {
     color: #846A6A;
     font-size: 1.3em;
-    padding-top: 0.4em;
+    padding-top: 0.3em;
     font-family: 'Varela Round', sans-serif;
 }
 
 #sideNav h3 {
     color: #846A6A;
     font-size: 1.3em;
-    padding-bottom: 0.4em;
+    padding-bottom: 0.3em;
     font-family: 'Varela Round', sans-serif;
 }
 
