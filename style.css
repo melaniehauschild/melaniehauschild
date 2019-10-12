@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Kanit|Mansalva|Montserrat|Varela+Round|Yeseva+One&display=swap');
+
+#sideNav {
+    padding-top: 8em;
+    background: #E1BBC9;
+    height: 100vh;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    color: #6B2737;
+    padding-left: 0;
+    text-align: center;
+    font-size: 1.3em;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#sideNav h1 {
+    font-size: 2.3em;
+    color: #564946;
+    font-family: 'Yeseva One', cursive;
+}
+
+#sideNav h2 {
+    color: #846A6A;
+    font-size: 1.7em;
+    padding-top: 0.5em;
+    font-family: 'Varela Round', sans-serif;
+}
+
+#sideNav h3 {
+    color: #846A6A;
+    font-size: 1.7em;
+    padding-bottom: 0.5em;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.resume-head {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.resume-head h1 {
+    font-family: 'Yeseva One', cursive;
+    color: #564946;
+    font-size: 3em;
+}
+
+.resume-head h3 {
+    color: #846A6A;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 1.2em;
+}
+
+#mainContent {
+    padding-left: 22em;
+    padding-bottom: 3em;
+}
+
+#mainContent h2 {
+    color: #6B2737;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#profilepic {
+    border-radius: 50%
+}
